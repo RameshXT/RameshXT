@@ -18,7 +18,7 @@
 
 <hr>
 
-<h3 align="center">🧰 Toolbelt of a Cloud Ninja</h3>
+<h3 align="center">Tech</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -37,6 +37,6 @@
 <hr>
 
 <p align="center">
-  🧠 <strong>“Build once. Automate forever.”</strong><br>
-  🔧 Working smarter with code, containers, and clouds.
+  <strong>“Build once. Automate forever.”</strong><br>
+  Working smarter with code, containers, and clouds.
 </p>
