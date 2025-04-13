@@ -1,15 +1,8 @@
-<!-- GitHub Profile - RameshXT | Final Clean Version -->
-
-<!-- GitHub Profile README - Premium Design for "RAMESH" -->
-
 <div align="center">
   <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3em; font-weight: 800; color: #f97316; background: linear-gradient(90deg, rgba(0, 204, 255, 1), rgba(255, 204, 0, 1)); -webkit-background-clip: text; color: transparent; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);">
     This is Ramesh!
   </h1>
 </div>
-
-
-
 
 <p align="center">
   <strong>DevOps Engineer | Cloud-Native Thinker | Infrastructure Architect </strong><br>
@@ -40,11 +33,3 @@
   <strong>“Build once. Automate forever.”</strong><br>
   Working smarter with code, containers, and clouds.
 </p>
-
-<hr>
-
-<div align="center">
-  <a href="[https://yourwebsite.com](https://rameshxt.pages.dev/)" target="_blank" style="display: inline-block; background-color: #3498db; color: white; font-size: 1.2em; padding: 15px 30px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">
-    Visit My Website
-  </a>
-</div>
