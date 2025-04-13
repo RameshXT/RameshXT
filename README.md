@@ -1,10 +1,11 @@
 <!-- GitHub Profile - RameshXT | Final Clean Version -->
 
-<h1 align="center">
-  <span style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 40px; color: #F97316;">
-    ✨ Ramesh ✨
-  </span>
-</h1>
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3em; font-weight: 800; color: #f97316; background: linear-gradient(90deg, rgba(0, 204, 255, 1), rgba(255, 204, 0, 1)); -webkit-background-clip: text; color: transparent; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);">
+    RAMESH
+  </h1>
+</div>
+
 
 
 <p align="center">
