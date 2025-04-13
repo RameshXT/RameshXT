@@ -9,41 +9,6 @@
 </div>
 
 
-  <!-- Description Text below the Name -->
-  <p style="font-size: 1.2em; color: #fff; font-style: italic; margin-top: 10px; text-align: center;">
-    🚀 DevOps Engineer | Cloud Architect | CI/CD Expert | Infrastructure Enthusiast
-  </p>
-
-  <!-- Hover Effects for Interactive Feel -->
-  <p style="font-size: 1em; color: #fff; text-align: center; margin-top: 20px;">
-    <span style="font-size: 1.5em; transition: all 0.3s ease; cursor: pointer; color: #F97316; font-weight: bold;" 
-          onmouseover="this.style.color='#fff'; this.style.transform='scale(1.1)';"
-          onmouseout="this.style.color='#F97316'; this.style.transform='scale(1)';">
-      Explore My Work
-    </span>
-  </p>
-</div>
-
-<!-- Animation Styles -->
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); color: #f97316; }
-    50% { transform: scale(1.05); color: #fff; }
-    100% { transform: scale(1); color: #f97316; }
-  }
-</style>
-
-
-
-<style>
-@keyframes glow {
-  0% { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000; }
-  50% { text-shadow: 0 0 10px #3498db, 0 0 20px #3498db, 0 0 30px #3498db; }
-  100% { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000; }
-}
-</style>
-
-
 
 
 <p align="center">
