@@ -1,8 +1,11 @@
 <!-- GitHub Profile - RameshXT | Final Clean Version -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&color=F97316&width=435&lines=🔥+RAMESH+🔥" alt="Ramesh banner" />
+  <span style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 40px; color: #F97316;">
+    ✨ Ramesh ✨
+  </span>
 </h1>
+
 
 <p align="center">
   <strong>DevOps Engineer | Cloud-Native Thinker | Infrastructure Whisperer</strong><br>
