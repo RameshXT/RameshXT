@@ -1,10 +1,19 @@
 <!-- GitHub Profile - RameshXT | Final Clean Version -->
 
 <div align="center">
-  <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3em; font-weight: 800; color: #f97316; background: linear-gradient(90deg, rgba(0, 204, 255, 1), rgba(255, 204, 0, 1)); -webkit-background-clip: text; color: transparent; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);">
+  <h1 style="font-family: 'Fira Code', monospace; font-size: 3em; font-weight: bold; color: #3498db; text-align: center; animation: glow 1.5s ease-in-out infinite;">
     RAMESH
   </h1>
 </div>
+
+<style>
+@keyframes glow {
+  0% { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000; }
+  50% { text-shadow: 0 0 10px #3498db, 0 0 20px #3498db, 0 0 30px #3498db; }
+  100% { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000; }
+}
+</style>
+
 
 
 
