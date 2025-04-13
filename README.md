@@ -1,3 +1,5 @@
+<!-- GitHub Profile - RameshXT | Final Clean Version -->
+
 <h1 align="center">🚀 Ramesh</h1>
 
 <p align="center">
@@ -26,10 +28,6 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-landing-page.vercel.app/api/rameshxt/lines" width="100%" alt="Code + Infrastructure" />
-</p>
-
-<p align="center">
   🧠 <strong>“Build once. Automate forever.”</strong><br>
-  🎯 Currently engineering systems that deploy themselves and scale without panic.
+  🔧 Working smarter with code, containers, and clouds.
 </p>
