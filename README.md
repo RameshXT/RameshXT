@@ -2,12 +2,12 @@
 
 <!-- GitHub Profile README - Premium Design for "RAMESH" -->
 
-<div align="center" style="background: linear-gradient(135deg, #6a11cb, #2575fc); padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); width: 70%; margin-top: 20px;">
-
-  <!-- Animated Name with Effect -->
-  <h1 style="font-family: 'Roboto', sans-serif; font-size: 4em; font-weight: bold; color: #fff; text-transform: uppercase; text-align: center; animation: pulse 2s infinite;">
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3em; font-weight: 800; color: #f97316; background: linear-gradient(90deg, rgba(0, 204, 255, 1), rgba(255, 204, 0, 1)); -webkit-background-clip: text; color: transparent; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);">
     RAMESH
   </h1>
+</div>
+
 
   <!-- Description Text below the Name -->
   <p style="font-size: 1.2em; color: #fff; font-style: italic; margin-top: 10px; text-align: center;">
