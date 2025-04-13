@@ -1,14 +1,13 @@
-<!-- GitHub Profile - RameshXT | Minimal, Animated, Clever -->
-
-<h2 align="center">🚀 Hey, I'm Ramesh</h2>
+<h1 align="center">🚀 Ramesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%7C+Automation+Lover;Cloud-Native+Deployments+%26+IaC+Fanatic;Building+things+that+scale+%F0%9F%9A%80" alt="Typing animation" />
+  <strong>DevOps Engineer | Cloud-Native Thinker | Infrastructure Whisperer</strong><br>
+  <em>“Turning chaos into containers & code into automation.”</em>
 </p>
 
 <hr>
 
-<h3 align="center">🛠️ My Toolbelt</h3>
+<h3 align="center">🧰 Toolbelt of a Cloud Ninja</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -24,7 +23,13 @@
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
 
+<hr>
+
 <p align="center">
-  <i>“Automating the boring stuff and deploying the exciting stuff.”</i><br>
-  <i>Let the pipelines flow and the containers roll 🐳🚀</i>
+  <img src="https://readme-landing-page.vercel.app/api/rameshxt/lines" width="100%" alt="Code + Infrastructure" />
+</p>
+
+<p align="center">
+  🧠 <strong>“Build once. Automate forever.”</strong><br>
+  🎯 Currently engineering systems that deploy themselves and scale without panic.
 </p>
