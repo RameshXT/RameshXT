@@ -1,10 +1,11 @@
 <!-- GitHub Profile - RameshXT | Final Clean Version -->
 
 <div align="center">
-  <h1 style="font-family: 'Fira Code', monospace; font-size: 3em; font-weight: bold; color: #3498db; text-align: center; animation: glow 1.5s ease-in-out infinite;">
-    RAMESH
+  <h1 style="font-family: 'Roboto', sans-serif; font-size: 3.5em; font-weight: bold; color: #2d3436;">
+    🚀 RAMESH 🚀
   </h1>
 </div>
+
 
 <style>
 @keyframes glow {
