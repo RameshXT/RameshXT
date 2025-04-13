@@ -1,10 +1,38 @@
 <!-- GitHub Profile - RameshXT | Final Clean Version -->
 
-<div align="center">
-  <h1 style="font-family: 'Roboto', sans-serif; font-size: 3.5em; font-weight: bold; color: #2d3436;">
-    🚀 RAMESH 🚀
+<!-- GitHub Profile README - Premium Design for "RAMESH" -->
+
+<div align="center" style="background: linear-gradient(135deg, #6a11cb, #2575fc); padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); width: 70%; margin-top: 20px;">
+
+  <!-- Animated Name with Effect -->
+  <h1 style="font-family: 'Roboto', sans-serif; font-size: 4em; font-weight: bold; color: #fff; text-transform: uppercase; text-align: center; animation: pulse 2s infinite;">
+    RAMESH
   </h1>
+
+  <!-- Description Text below the Name -->
+  <p style="font-size: 1.2em; color: #fff; font-style: italic; margin-top: 10px; text-align: center;">
+    🚀 DevOps Engineer | Cloud Architect | CI/CD Expert | Infrastructure Enthusiast
+  </p>
+
+  <!-- Hover Effects for Interactive Feel -->
+  <p style="font-size: 1em; color: #fff; text-align: center; margin-top: 20px;">
+    <span style="font-size: 1.5em; transition: all 0.3s ease; cursor: pointer; color: #F97316; font-weight: bold;" 
+          onmouseover="this.style.color='#fff'; this.style.transform='scale(1.1)';"
+          onmouseout="this.style.color='#F97316'; this.style.transform='scale(1)';">
+      Explore My Work
+    </span>
+  </p>
 </div>
+
+<!-- Animation Styles -->
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); color: #f97316; }
+    50% { transform: scale(1.05); color: #fff; }
+    100% { transform: scale(1); color: #f97316; }
+  }
+</style>
+
 
 
 <style>
