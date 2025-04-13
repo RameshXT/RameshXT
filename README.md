@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3em; font-weight: 800; color: #f97316; background: linear-gradient(90deg, rgba(0, 204, 255, 1), rgba(255, 204, 0, 1)); -webkit-background-clip: text; color: transparent; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);">
-    RAMESH
+    THIS IS RAMESH!
   </h1>
 </div>
 
@@ -18,7 +18,7 @@
 
 <hr>
 
-<h3 align="center">Tech</h3>
+<h3 align="center">Tools that make happen</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
