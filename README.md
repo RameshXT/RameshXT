@@ -54,12 +54,3 @@
   <strong>“Build once. Automate forever.”</strong><br>
   Working smarter with code, containers, and clouds.
 </p>
-
-
-<h2 align="end">DevOps Engineer at</h2>
-<p align="end">
-  <a href="https://accuknox.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AccuKnox-0046FF?style=for-the-badge&logo=accuknox&logoColor=white" />
-  </a>
-</p>
-
