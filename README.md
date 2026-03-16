@@ -36,16 +36,20 @@
 <hr>
 <h3 align="center">Open Source Contributions</h3>
 <div align="center">
-**[OpenTofu](https://github.com/opentofu/opentofu)**
+
+<h4><a href="https://github.com/opentofu/opentofu">OpenTofu</a></h4>
+
 | PR | Description | Status |
 |:---:|:---|:---:|
 | [#3881](https://github.com/opentofu/opentofu/pull/3881) | docs: add warning callout for TF_PLUGIN_CACHE_DIR conflict with mirror dirs | ![PR Status](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/3881?style=flat-square) |
 | [#3882](https://github.com/opentofu/opentofu/pull/3882) | docs: add Directory Scanning Behavior section to tofu fmt | ![PR Status](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/3882?style=flat-square) |
 
-**[Tekton Pipelines](https://github.com/tektoncd/pipeline)**
+<h4><a href="https://github.com/tektoncd/pipeline">Tekton Pipelines</a></h4>
+
 | PR | Description | Status |
 |:---:|:---|:---:|
 | [#9580](https://github.com/tektoncd/pipeline/pull/9580) | ci: add PR welcome comment with slash commands | ![PR Status](https://img.shields.io/github/pulls/detail/state/tektoncd/pipeline/9580?style=flat-square) |
+
 </div>
 <hr>
 <p align="center">
