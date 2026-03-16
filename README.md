@@ -36,22 +36,22 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
-
 <hr>
-
 <h3 align="center">Open Source Contributions</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenTofu-%233881-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
 
 <div align="center">
 
+### 🔧 [OpenTofu](https://github.com/opentofu/opentofu)
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
 | PR | Description | Status |
-|---|---|---|
+|:---:|:---|:---:|
 | [#3881](https://github.com/opentofu/opentofu/pull/3881) | docs: add warning callout for TF_PLUGIN_CACHE_DIR conflict with mirror dirs | ![Open](https://img.shields.io/badge/status-open-orange) |
 | [#3882](https://github.com/opentofu/opentofu/pull/3882) | docs: add Directory Scanning Behavior section to tofu fmt | ![Open](https://img.shields.io/badge/status-open-orange) |
 
 </div>
+
 <hr>
 <p align="center">
   <strong>"Build once. Automate forever."</strong><br>
