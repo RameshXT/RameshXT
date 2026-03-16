@@ -40,16 +40,10 @@
 <hr>
 
 <h3 align="center">Open Source Contributions</h3>
-<p align="center">
-  <a href="https://github.com/opentofu/opentofu/pull/3881">
-    <img src="https://img.shields.io/badge/OpenTofu-%233881-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  </a>
-  <a href="https://github.com/opentofu/opentofu/pull/3882">
-    <img src="https://img.shields.io/badge/OpenTofu-%233882-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenTofu-%233881-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-<h4 align="center"><a href="https://github.com/opentofu/opentofu">OpenTofu</a></h4>
 <div align="center">
 
 | PR | Description | Status |
