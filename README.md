@@ -45,8 +45,8 @@
 
 | PR | Description | Status |
 |:---:|:---|:---:|
-| [#3881](https://github.com/opentofu/opentofu/pull/3881) | docs: add warning callout for TF_PLUGIN_CACHE_DIR conflict with mirror dirs | ![Open](https://img.shields.io/badge/status-open-orange) |
-| [#3882](https://github.com/opentofu/opentofu/pull/3882) | docs: add Directory Scanning Behavior section to tofu fmt | ![Open](https://img.shields.io/badge/status-open-orange) |
+| [#3881](https://github.com/opentofu/opentofu/pull/3881) | docs: add warning callout for TF_PLUGIN_CACHE_DIR conflict with mirror dirs | ![PR Status](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/3881?style=flat-square) |
+| [#3882](https://github.com/opentofu/opentofu/pull/3882) | docs: add Directory Scanning Behavior section to tofu fmt | ![PR Status](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/3882?style=flat-square) |
 
 </div>
 
