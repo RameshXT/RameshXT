@@ -41,9 +41,7 @@
 
 <div align="center">
 
-### 🔧 [OpenTofu](https://github.com/opentofu/opentofu)
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+**[OpenTofu](https://github.com/opentofu/opentofu)**
 
 | PR | Description | Status |
 |:---:|:---|:---:|
