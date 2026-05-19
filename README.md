@@ -28,9 +28,11 @@
   <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
-<h3 align="center">🚀 Flagship Application</h3>
+
+<hr>
+<h3 align="center">NotiFly</h3>
 <p align="center">
-  <strong>NotiFly</strong> — A beautiful, offline-first event & birthdate tracker built for Android.
+  <strong>NotiFly</strong> A beautiful, offline-first event & birthdate tracker built for Android.
 </p>
 <p align="center">
   <a href="https://notifly.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-notifly.pages.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/RameshXT/notifly-releases" target="_blank"><img src="https://img.shields.io/badge/Download_APK-notifly--releases-007ACC?style=for-the-badge&logo=github&logoColor=white" /></a>
