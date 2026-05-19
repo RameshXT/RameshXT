@@ -28,16 +28,17 @@
   <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
-<h3 align="center">Featured Applications</h3>
-<div align="center">
+<h3 align="center">🚀 Flagship Application</h3>
+<p align="center">
+  <strong>NotiFly</strong> — A beautiful, offline-first event & birthdate tracker built for Android.
+</p>
+<p align="center">
+  <a href="https://notifly.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-notifly.pages.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/RameshXT/notifly-releases" target="_blank"><img src="https://img.shields.io/badge/Download_APK-notifly--releases-007ACC?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center">
+  <code>React Native</code> • <code>Expo</code> • <code>SQLite</code> • <code>GitHub Actions</code>
+</p>
 
-<h4><a href="https://notifly.pages.dev/">NotiFly</a></h4>
-
-A beautiful, high-performance birthdate notification and event-tracking application. Built with React Native & Expo, utilizing an offline-first SQLite architecture, secure Google Sign-In, and a custom automated DevOps build and release pipeline.
-
-[![NotiFly Website](https://img.shields.io/badge/Website-notifly.pages.dev-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://notifly.pages.dev/)
-
-</div>
 <hr>
 <h3 align="center">Open Source Contributions</h3>
 <div align="center">
