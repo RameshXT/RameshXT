@@ -28,9 +28,9 @@
 </p>
 
 <hr>
-<h3 align="center">NotiFly</h3>
+<h3 align="center">NotiFly Go</h3>
 <p align="center">
-  <strong>NotiFly</strong> A beautiful, offline-first event & birthdate tracker built for Android.
+  <strong>NotiFly Go</strong> The smart birthday reminder app to track special dates, get AI gift ideas, and celebrate the people you love.
 </p>
 <p align="center">
   <a href="https://notiflygo.rameshxt.com/" target="_blank"><img src="https://img.shields.io/badge/Website-notifly.pages.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.notiflygo.app" target="_blank"><img src="https://img.shields.io/badge/Download_APK-notifly--releases-007ACC?style=for-the-badge&logo=github&logoColor=white" /></a>
