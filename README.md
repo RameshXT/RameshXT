@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <!-- Servers -->
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
 
 <hr>
@@ -35,7 +33,7 @@
   <strong>NotiFly</strong> A beautiful, offline-first event & birthdate tracker built for Android.
 </p>
 <p align="center">
-  <a href="https://notifly.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-notifly.pages.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/RameshXT/notifly-releases" target="_blank"><img src="https://img.shields.io/badge/Download_APK-notifly--releases-007ACC?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://notiflygo.rameshxt.com/" target="_blank"><img src="https://img.shields.io/badge/Website-notifly.pages.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.notiflygo.app" target="_blank"><img src="https://img.shields.io/badge/Download_APK-notifly--releases-007ACC?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <p align="center">
   <code>React Native</code> • <code>Expo</code> • <code>SQLite</code> • <code>GitHub Actions</code>
@@ -52,15 +50,8 @@
 | [#3881](https://github.com/opentofu/opentofu/pull/3881) | docs: add warning callout for TF_PLUGIN_CACHE_DIR conflict with mirror dirs | ![PR Status](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/3881?style=flat-square) |
 | [#3882](https://github.com/opentofu/opentofu/pull/3882) | docs: add Directory Scanning Behavior section to tofu fmt | ![PR Status](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/3882?style=flat-square) |
 
-<h4><a href="https://github.com/tektoncd/pipeline">Tekton Pipelines</a></h4>
-
-| PR | Description | Status |
-|:---:|:---|:---:|
-| [#9580](https://github.com/tektoncd/pipeline/pull/9580) | ci: add PR welcome comment with slash commands | ![PR Status](https://img.shields.io/github/pulls/detail/state/tektoncd/pipeline/9580?style=flat-square) |
-
 </div>
 <hr>
 <p align="center">
   <strong>"Build once. Automate forever."</strong><br>
-  Working smarter with code, containers, and clouds.
 </p>
